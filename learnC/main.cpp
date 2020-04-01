@@ -20,7 +20,7 @@ int main (){
     cout << d << endl;
     cout.precision(6);
     cout << d << endl;
-    cout.width(20);
+    cout.width(24);
 }
 
 
